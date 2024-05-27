@@ -1,5 +1,3 @@
-let lastSubmissionTime = 0;
-
 // Function to handle form submission for updating the website
 document.getElementById("updateForm").addEventListener("submit", function(event) {
     event.preventDefault(); 
